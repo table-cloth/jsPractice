@@ -1,0 +1,2 @@
+# jsPractice
+trials of javascript
